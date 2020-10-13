@@ -7,6 +7,7 @@ chkconfig incrond on
 /etc/init.d/incrond start
 
 2) Edit incrotab to monitor the elastix address book sqlite
+
 incrontab -e
 
 add the following line
